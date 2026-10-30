@@ -1,3 +1,7 @@
+# TOTVS
+.github/
+.vscode/
+
 # Angular specific
 /dist/
 /out-tsc/
